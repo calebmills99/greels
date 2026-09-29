@@ -216,3 +216,47 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large audiovisual assets (typically generated binaries)
+*.3gp
+*.aac
+*.aif
+*.aiff
+*.alac
+*.avi
+*.braw
+*.flac
+*.flv
+*.m4a
+*.m4v
+*.mkv
+*.mov
+*.mp3
+*.mp4
+*.mpeg
+*.mpg
+*.mxf
+*.ogg
+*.wav
+*.webm
+*.wmv
+
+# Adobe Creative Suite junk/cache/temp
+*.idlk
+*.lck
+*.lrprev
+*.tmp
+~$*.psd
+*.aep Autosave*
+*.prproj Autosave*
+*.indd Recovery*
+After Effects Disk Cache/
+Adobe After Effects Auto-Save/
+Adobe Media Encoder/
+Media Cache/
+Media Cache Files/
+Peak Files/
+Video Previews/
+Audio Previews/
+Encoded Files/
+Premiere Pro Auto-Save/
